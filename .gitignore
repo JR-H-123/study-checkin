@@ -5,3 +5,6 @@ __pycache__/
 # 虚拟环境目录
 .venv/
 venv/
+
+# 个人学习记录只保存在本机
+data/checkins.json
